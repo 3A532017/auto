@@ -1,0 +1,16 @@
+{
+    "name": "yingyi/auto",
+    "authors": [
+        {
+            "name": "3A532017",
+            "email": "s3a532017@student.ncut.edu.tw"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    },
+
+    "require": {}
+}
